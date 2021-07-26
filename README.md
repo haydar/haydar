@@ -13,11 +13,10 @@
 
 ## Dev Stack
 <p align="center">
-     <img src="https://devicon.dev/devicon.git/icons/apache/apache-original-wordmark.svg" alt="Apache" width="55" height="55"/> 
-    <img src="https://devicon.dev/devicon.git/icons/nginx/nginx-original.svg" alt="Nginx" width="55" height="55"/> 
-     <img src="https://devicon.dev/devicon.git/icons/php/php-plain.svg" alt="Php" width="55" height="55"/> 
-     <img src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain.svg" alt="Laravel" width="55" height="55"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="55" height="55"/> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="Php" width="55" height="55"/> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="55" height="55"/> 
    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="visual studio" width="55" height="55"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="55" height="55"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="55" height="55"/> 
  </p>
