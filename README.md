@@ -7,7 +7,7 @@
 - 🔭 I’m currently working as freelancer ...
 - 🌱 I’m still learning something and it will never end...
 - ✍️ I have a [blog](https://haydarsahin.com). (just Turkish 🇹🇷 for now)
-- 📫 How to reach me: I want to separate my private and work life. Also my social media accounts are within the limits of my private life. Therefore, please don't send messege through social media, If you didn't met me, you are not familiar or I didn't follow you before but you are free to sending me a e-mail. I will do my best respond. [![Gmail Badge](https://img.shields.io/badge/-haydarsahin34@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haydarsahin34@gmail.com)](mailto:haydarsahin34@gmail.com)
+- 📫 How to reach me: I want to separate my private and work life. Also my social media accounts are within the limits of my private life. Therefore, please don't send message through social media, If you didn't met me, you are not familiar or I didn't follow you before but you are free to sending me a e-mail. I will do my best respond. [![Gmail Badge](https://img.shields.io/badge/-haydarsahin34@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haydarsahin34@gmail.com)](mailto:haydarsahin34@gmail.com)
 - ⚡ Fun fact : Programmers are not technician but I am  :( 
 
 ## Dev Stack
